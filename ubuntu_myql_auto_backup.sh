@@ -1,5 +1,5 @@
 ##############################################################
-# BEFORE EXECUTE THE SCRIPT PLEASE THE INSTRUCTION CAREFULLY 
+# BEFORE EXECUTE THE SCRIPT PLEASE READ THE INSTRUCTION CAREFULLY 
 # ----------------------------------------------------------
 # Author : abhiram Das | abhiramdas99@gmail.com
 # ----------------------------------------------------------
