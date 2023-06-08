@@ -32,3 +32,10 @@ sudo apt-get remove nms-sm
 # uninstall NGINX Agent
 sudo systemctl stop nginx-agent
 sudo apt-get remove nginx-agent
+
+# Delete NGINX directory in all location 
+for i in $(find / -type d -name nginx); do
+        rm -r $i
+done
+
+
